@@ -47,10 +47,13 @@ Team SAUCE(2.0) - Software Development Team(Spring 2023): Kelvin Zetino (kzetino
 <br>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-## My Contribution as Grandbradster98
-As part of the Software Development Team (Spring 2023), I focused on:
-- Building the Python/Dash dashboard for real-time data visualization
-- Implementing user authentication and interactive UI controls
-- Developing live chart plotting for sensor anomaly detection
-- Integrating data pipeline from Raspberry Pi rover sensors to the 
-  web dashboard
+## My Contribution
+Official Role: Data Modeler (Primary) | Testing Lead (Secondary)
+
+As part of the Software Development Team (Spring 2023):
+- Designed and managed the data modeling architecture for 
+  real-time sensor data from Raspberry Pi rover modules
+- Led testing efforts using Python testing frameworks (Pytest)
+- Built and maintained the Python/Dash dashboard for live 
+  anomaly detection visualization
+- Implemented user authentication and interactive UI controls
